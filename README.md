@@ -4,6 +4,9 @@
 
 - MERN stack
 - MaterialUI design
-- appwrite
+- appwrite web client sdk
 - openAI's text-davinci-002 engine API
+
+
+
 
