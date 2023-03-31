@@ -6,6 +6,7 @@
 - MaterialUI design
 - appwrite web client sdk
 - openAI's text-davinci-002 engine API
+- mail api 
 
 
 
