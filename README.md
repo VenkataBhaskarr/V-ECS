@@ -7,6 +7,7 @@
 - appwrite web client sdk
 - openAI's text-davinci-002 engine API
 - mail api 
+- possibly socket.io for communication via real time on the app itself
 
 
 
